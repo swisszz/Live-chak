@@ -1,7 +1,138 @@
-#EXTM3U
+{
+       "name": "Digital-TV",
+       "author": "By Ghost TV",
+       "image": "https://sv1.picz.in.th/images/2020/12/19/jrPKO0.jpg",
+       "stations": [
+           {
+              "name": "CH3 HD",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrPiRI.jpg",
+              "url": "https://www.we-play.tv/watching/tv/ch3-hd"
+           },
+           {
+              "name": "CH5 HD",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrPR6P.jpg",
+              "url": "https://tc-live1.sanook.com/live/22302_ch5.m3u8"
+           },
+           {
+              "name": "CH7 HD",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrPQWt.jpg",
+              "url": "https://www.we-play.tv/watching/tv/ch7-hd"
+           },
+           {
+              "name": "CH8 HD",
+              "image": "https://sv1.picz.in.th/images/2021/06/10/s7O73P.jpg",
+              "url": "https://www.inwiptv.com/player_demo.php?channel=27147"
+           },
+           {
+              "name": "MCOT HD",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrP5ek.jpg",
+              "url": "https://stream-01.sv4.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xtg14c-g0fgpQ4fJvkM6GnE)/dm/3/x74wlgj/s/live-3.m3u8"
+           },
+           {
+              "name": "PPTV HD",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrPjaN.jpg",
+              "url": "https://www.we-play.tv/watching/tv/pptv-hd"
+           },
+           {
+              "name": "ONE HD",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrPbOE.jpg",
+              "url": "https://www.we-play.tv/watching/tv/one-hd"
+           },
+           {
+              "name": "Amarin TV",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrPgzZ.jpg",
+              "url": "https://www.we-play.tv/watching/tv/amarin-tv"
+           },
+           {
+              "name": "GMM25",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrPU1e.jpg",
+              "url": "https://u12.cdn.vet/live/ch0/i/ch0i.m3u8?sid=cjeMjg1NWFiNTg3ZDFiMDhhYzBjMQODZlZTY0ZTc1MmJkZDY3"
+           },
+           {
+              "name": "MONO29",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrPqAl.jpg",
+              "url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8"
+           },
+           {
+              "name": "NationTV",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrPOkv.jpg",
+              "url": "https://www.adintrend.tv/hd/m/ch37"
+           },
+           {
+              "name": "Thai PBS",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrPozV.jpg",
+              "url": "https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8"
+           },
+           {
+              "name": "Thairath TV",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrPsWn.jpg",
+              "url": "https://www.we-play.tv/watching/tv/thairath-tv"
+           },
+           {
+              "name": "true4U",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrPDxQ.jpg",
+              "url": "https://true4u.com/live/"
+           },
+           {
+              "name": "Workpoint",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrPAnS.jpg",
+              "url": "https://stream-04.sv4.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8lKI5haCmGutNjFaKh6drvs)/dm/3/x6g9qjj/s/live-3.m3u8"
+           },
+           {
+              "name": "NBT",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jrP2Kg.jpg",
+              "url": "http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8"
+           },
+           {
+              "name": "TNN",
+              "image": "https://sv1.picz.in.th/images/2021/04/05/DM4AtD.jpg",
+              "url": "https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_480p/index.m3u8"
+           },
+           {
+              "name": "TOP NEW",
+              "image": "https://sv1.picz.in.th/images/2021/06/10/s7O59b.png",
+              "url": "https://live.topnews.co.th/hls/topnews.m3u8"
+           },
+           {
+         "name": "PSI Saradee",
+        "image": "https://sv1.picz.in.th/images/2020/12/20/j8MDFP.jpg",
+       "url":"http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/chunklist_w1357463952.m3u8"
+           },
+           {
+              "name": "FW MOV",
+              "image": "https://sv1.picz.in.th/images/2021/06/10/s7OHUl.jpg",
+              "url": "https://www.inwiptv.com/player_demo.php?channel=89782"
+           },
+           {
+              "name": "FW SOV",
+              "image": "https://sv1.picz.in.th/images/2021/06/10/s7O8Ne.jpg",
+              "url": "https://www.inwiptv.com/player_demo.php?channel=89781"
+           },
+           {
+              "name": "FW TooN",
+              "image": "https://sv1.picz.in.th/images/2021/06/10/s7OV8k.jpg",
+              "url": "https://www.inwiptv.com/player_demo.php?channel=89780"
+           },
+           {
+              "name": "WARNER TV HD",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jr2Awg.jpg",
+              "url": "https://ilike.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8"
+           },
+           {
+              "name": "AXN HD",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jr2SH9.jpg",
+              "url": "https://ilike.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8"
+           },
+           {
+              "name": "FOX Thai",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jr2t50.jpg",
+              "url": "https://www.we-play.tv/watching/tv/fox-thai"
+           },
+           {
+              "name": "HBO HD",
+              "image": "https://sv1.picz.in.th/images/2020/12/19/jr2ZgI.jpg",
+              "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8"
 
-#EXTINF:-1,KroneHit TV Music
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-
-#EXTINF:-1,Hit Music 
-http://hitmusic.hu/hitmusic.m3u8
+           }
+          ]
+        }
